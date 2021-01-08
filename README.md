@@ -1,6 +1,25 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## COVID-19 Tracker Web App Project Description
+
+COVID-19 Tracker app is a front-end website application.
+
+- The app shows real-time data of:
+
+  1. number of people infected by coronavirus.
+  2. number of people killed by coronavirus.
+  3. number of people recovered from coronavirus.
+
+- The app provides users with the options of selecting global data or data from different countries.
+- The app maps out the global data with a line chart.
+  - The line chart shows both infected and death cases.
+- The app maps out the data from different countries with a bar chart.
+- Website URL: http://www.cvirustracker.tech
+
+## Data source
+
+COVID-19 global data (from JHU CSSE) as-a-service:
+https://covid19.mathdro.id
 
 ## Available Scripts
 
