@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Check out the live coronavirus app at www.cvirustracker.tech.
 
+The API used in this project stopped displaying the daily values. The whole project still works absolutely fine.
+
 ## COVID-19 Tracker Web App Project Description
 
 COVID-19 Tracker app is a front-end website application.
