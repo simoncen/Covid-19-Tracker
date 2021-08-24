@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Check out the live chat app at www.cvirustracker.tech
+
+Check out the live chat app at www.cvirustracker.tech.
 
 ## COVID-19 Tracker Web App Project Description
 
