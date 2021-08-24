@@ -18,6 +18,10 @@ COVID-19 Tracker app is a front-end website application.
 - The app maps out the data from different countries with a bar chart.
 - Website URL: http://www.cvirustracker.tech
 
+## Main Page:
+![1629807072313](https://user-images.githubusercontent.com/56233967/130614219-734e1073-1876-462d-ae8c-7e9e1a60fae0.png)
+![1629806983429](https://user-images.githubusercontent.com/56233967/130614317-1e45c697-3a08-40fd-99d9-31309f285073.png)
+
 ## Data source
 
 COVID-19 global data (from JHU CSSE) as-a-service:
